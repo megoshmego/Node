@@ -1,3 +1,4 @@
+
 1. **Node.js**: An open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.
 
 2. **Node Package Manager (npm)**: The default package manager for Node.js. It allows developers to install, share, and package modules.

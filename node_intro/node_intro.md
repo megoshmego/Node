@@ -45,4 +45,4 @@ app.listen(3000, () => {
 
 6. Run the application: In the terminal, run the command `node index.js` to start the Node.js application. It will start a server at http://localhost:3000. If you open a web browser and navigate to that URL, you should see the message "Hello, Node.js!" displayed.
 
-This demonstration showcases the installation of Node.js, initialization of a
+a
