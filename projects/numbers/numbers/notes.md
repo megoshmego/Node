@@ -1,4 +1,6 @@
+Of course! I'll break down the script for you and explain each part in detail.
 
+```javascript
 // Function to make a request to the Numbers API and get a fact about a number
 function getNumberFact(number) {
   return new Promise((resolve, reject) => {
