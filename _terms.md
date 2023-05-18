@@ -53,3 +53,11 @@ Sure, here is a condensed and enhanced list of key terms and definitions related
 26. **REPL (Read-Eval-Print-Loop)**: An interactive shell that processes Node.js expressions. It reads JavaScript code, evaluates the result of interpreting the line of code, prints the result, and repeats the process.
   
 27. **Package.json**: A file in Node.js that usually resides at the root of a package/application and describes the metadata of your project. It includes
+
+1. **Jest**: A JavaScript testing framework developed by Facebook, commonly used for testing JavaScript and React applications. It provides features such as a zero-configuration testing experience, mocking, and a great iteration speed.
+
+2. **Test Files**: In Jest, tests are written in files with the `.test.js` extension. These are typically placed in the same folder as the code they are testing, or in a special `__tests__` folder.
+
+3. **Configuration Files**: Jest uses configuration files to understand how to run your tests. These could be a `package.json` file (if you're in a Node.js environment) or a `jest.config.js` file. You don't always need to add anything to these files, but they can be used to configure many aspects of how Jest works.
+
+4. **Writing Tests**: Tests in Jest are written using the `test` function. This function takes a string (which describes what the test is for) and a callback function, where you actually write your test code. Inside this function, you use Jest's `expect` and `toEquals` functions to define what the test should check for.

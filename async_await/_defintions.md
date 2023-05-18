@@ -1,3 +1,5 @@
+can you please evaluate the the following and provide scripts / snippets to learn the material? 
+
 
 1. **Node.js**: An open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.
 
